@@ -70,20 +70,6 @@ editkaro-portfolio/
 
 ---
 
-## 🚀 Getting Started
-
-No build tools or dependencies required. Just open the project in a browser:
-
-```bash
-git clone https://github.com/your-username/editkaro-portfolio.git
-cd editkaro-portfolio
-# Open index.html in your browser
-```
-
-Or use VS Code's **Live Server** extension for a better development experience.
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** — Semantic structure
@@ -92,14 +78,3 @@ Or use VS Code's **Live Server** extension for a better development experience.
 - **Google Fonts** — Bebas Neue, Inter, Space Mono
 - **YouTube IFrame API** — Embedded video playback
 
----
-
-## 📚 Assignment Context
-
-This project was completed as **Assignment 4** during a web development internship at **[Vault of Codes](https://vaultofcodes.com)**. The goal was to build a professional, visually polished portfolio page for a real-world brand brief.
-
----
-
-## 📄 License
-
-This project is for educational and portfolio demonstration purposes only. All embedded YouTube videos remain the property of their respective owners. The Editkaro.in brand name is used purely for this demo assignment.
