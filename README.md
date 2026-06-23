@@ -78,3 +78,8 @@ editkaro-portfolio/
 - **Google Fonts** — Bebas Neue, Inter, Space Mono
 - **YouTube IFrame API** — Embedded video playback
 
+---
+
+## 📄 License
+
+This project is for educational and portfolio demonstration purposes only. All embedded YouTube videos remain the property of their respective owners. The Editkaro.in brand name is used purely for this demo assignment.
